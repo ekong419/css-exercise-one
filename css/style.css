@@ -27,12 +27,17 @@ h1 {
   text-align: center;
 }
 
+/**** body ****/
+
 h3 {
   font-size: 1.3em;
 }
 
 .element {
+/**** background-color: Dodgerblue; Tomato; MediumSeaGreen ****/
+
   background-color: green;
   height: 100px;
   margin: 10px 0;
   width: 100%;
+}
